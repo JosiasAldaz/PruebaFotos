@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fotosapp</string>
+    <string name="btnCamara">Cámara</string>
+</resources>
